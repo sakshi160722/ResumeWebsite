@@ -1,0 +1,70 @@
+.doubt{
+    background: radial-gradient(116.76% 600.99% at 2.14% 0%,
+     #89DCFF 0%, #89FF95 100%);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.06);
+    position: absolute;
+width: 25.8%;
+height: 180px;
+left: 960px;
+top: 127px;
+display: flex;
+
+}
+.av_tar{
+    position: absolute;
+width: 85px;
+height: 85px;
+top: 28px;
+left: 29px;
+}
+
+.down_box{
+    position: absolute;
+    width: 377px;
+    height: 30px;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+filter: drop-shadow(0px 5px 9px rgba(0, 0, 0, 0.14));
+border-radius: 3px;
+
+top: 130px;
+left: 10px;
+}
+.Book_mentor{
+    position: absolute;
+width: 323px;
+height: 24px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+left: 27px;
+top: 3px;
+color: #FFFFFF;
+}
+
+
+.list{
+    position: absolute;
+width: 134px;
+height: 13px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    top: 50px;
+    left: 208px;
+    white-space: nowrap;
+}
+.Right_side_design{
+    position: absolute;
+width: 90px;
+height:170px;
+left: 1500px;
+top: 70px;
+
+}

@@ -1,0 +1,65 @@
+.upr_paper{
+    position: absolute;
+left: 0.33%;
+right: 0.33%;
+Width: 1575px;
+Height :68.5px;
+background: #FFFFFF;
+display: flex;
+
+}
+.home{
+    position: absolute;
+left: 29.85%;
+right: 65.39%;
+top: 34.73%;
+bottom: 33.85%;
+}
+.Contact_Us{
+    position: absolute;
+    left: 38.9%;
+    right: 55.18%;
+    top: 34.73%;
+    bottom: 33.85%;
+}
+.Courses{
+    position: absolute;
+    left: 49.08%;
+right: 46.52%;
+top: 34.73%;
+bottom: 33.85%;
+}
+.Mentors{
+    position: absolute;
+left: 58.53%;
+right: 37.16%;
+top: 34.73%;
+bottom: 33.85%;
+}
+.searchInput{
+    Width :92px;
+    Height: 30px;
+}
+::placeholder{
+    color: white;
+    opacity: 1;
+}
+.avt_ar{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 1275px;
+top: 18px;
+
+}
+.searchIcon{
+    color: white ;
+}
+.lorem{
+    position: absolute;
+left:10%;
+right: 80%;
+margin-left: 10px;
+top: 22.73%;
+bottom: 16.67%;
+}

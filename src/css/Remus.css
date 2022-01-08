@@ -1,0 +1,38 @@
+
+.remus_paper{
+    display: flex;
+    justify-content: center;
+   
+    background: #ffffff;
+    left: 120px;
+    
+    position: absolute;
+    top: 112px;
+}
+.leftPhoto{
+    left: -110px;
+    margin-left: -630px;
+    top: 138px;
+}
+.left_design{
+    position: absolute;
+    left: 27px;
+top: 450px;
+width: 65px;
+height:60x;
+}
+.hr{
+    position: absolute;
+    width:540px;
+    height: 0px;
+    left: 260px;
+    top: 245px;
+    opacity: .7;
+    border: 1px solid #000000
+}
+.footer{
+    display: flex;
+}
+
+
+

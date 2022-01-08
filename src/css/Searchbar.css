@@ -1,0 +1,30 @@
+/*
+.searchinput{
+    display: flex;
+    position: absolute;
+}
+
+.search input{
+   
+    position: absolute;
+    background-color: #FBB03B;;
+    border-radius: 20px;
+    padding: 3px;
+    border-color: #FBB03B;
+    Width:292px;
+    Height :30px;
+    Top: 18px;
+    Left :842px;
+}
+.icon{
+    display: grid;
+    place-items: center;
+    background-color: rgba(251, 176, 59, 1);
+    position: absolute;
+    left: 86.16%;
+    right: 12.67%;
+    top: 38.72%;
+    bottom: 38.24%;
+    border: 2px solid rgba(255, 255, 255, 1)
+}
+*/s

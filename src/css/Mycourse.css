@@ -1,0 +1,110 @@
+.My_course{
+    position: absolute;
+width: 25.8%;
+height: 727px;
+left: 960px;
+background: #FFFFFF;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.06);
+border-radius: 7px;
+top: 330px;
+display: flex;
+}
+.des{
+    height: 31px;
+    width: 17px;
+    left: 0px;
+    top: 0px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 3px;
+    border-radius: 0px;
+}
+.js{
+    margin-left: 10px;
+    margin-top: 10px;
+    position: absolute;
+width: 194.02px;
+height: 109.14px;
+border-radius: 2px;
+}
+.other{
+    margin-left: 10px;
+    margin-top: 144.01px;
+    position: absolute;
+width: 194.02px;
+border-radius: 2px;
+height: 109.14px;
+}
+.react{
+    margin-left: 10px;
+    position: absolute;
+width: 194px;
+height: 109px;
+border-radius: 2px;
+margin-top: 282px;
+}
+.html_css{
+   
+width: 194px;
+border-radius: 2px;
+height: 108px;
+margin-left: 10px;
+margin-top: 422px;
+position: absolute;
+}
+.c{
+   
+width: 194px;
+height: 109px;
+margin-left: 10px;
+border-radius: 2px;
+margin-top: 558px;
+position: absolute;
+}
+.de_g{
+    position: absolute;
+    width: 30px;
+height: 30px;
+left: 965px;
+top: 1065px;
+}
+.star{
+    position: absolute;
+    display: flex;
+width: 17px;
+height: 16px;
+margin-top: 94px;
+margin-left: 219px;
+}
+.star_sec{
+    position: absolute;
+    display: flex;
+width: 17px;
+height: 16px;
+margin-top: 227px;
+margin-left: 219px;
+}
+.star_third{
+    position: absolute;
+    display: flex;
+width: 17px;
+height: 16px;
+margin-top: 367px;
+margin-left: 219px;
+}
+.star_fourth{
+    position: absolute;
+    display: flex;
+width: 17px;
+height: 16px;
+margin-top: 510px;
+margin-left: 219px;
+}
+.star_fifth{
+    position: absolute;
+    display: flex;
+width: 17px;
+height: 16px;
+margin-top: 645px;
+margin-left: 219px;
+}
